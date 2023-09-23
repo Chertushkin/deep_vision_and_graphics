@@ -1,6 +1,11 @@
 # node and NPM
 npm-debug.log
 node_modules
+homework01/tiny-imagenet-200
+homework01/tiny-imagenet-200.zip
+week01-pytorch_intro/notMNIST_small
+week01-pytorch_intro/notMNIST_small.tar.gz
+
 
 # swap files
 *~
