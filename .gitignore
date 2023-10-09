@@ -6,8 +6,9 @@ homework01/tiny-imagenet-200
 homework01/tiny-imagenet-200.zip
 week01-pytorch_intro/notMNIST_small
 week01-pytorch_intro/notMNIST_small.tar.gz
-
-
+homework01/image*.png
+homework01/*.pt
+homework01/wandb
 # swap files
 *~
 *.swp
