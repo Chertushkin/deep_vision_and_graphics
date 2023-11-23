@@ -13,6 +13,13 @@ homework01/wandb
 homework02/data.zip
 homework02/data/
 homework02/unet_hw2.pt
+
+homework03/wandb
+homework03/celebA_train.zip
+homework03/celebA_train_500/
+homework03/part_1_400_epoch.pt
+homework03/HW3_part1
+
 # swap files
 *~
 *.swp
