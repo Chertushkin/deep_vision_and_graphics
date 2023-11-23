@@ -19,6 +19,11 @@ homework03/celebA_train.zip
 homework03/celebA_train_500/
 homework03/part_1_400_epoch.pt
 homework03/HW3_part1
+homework03/celebA_ir
+homework03/celebA_ir.zip
+homework03/__MACOSX/
+homework03/lightning_logs
+
 
 # swap files
 *~
