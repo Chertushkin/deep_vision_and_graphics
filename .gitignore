@@ -9,6 +9,10 @@ week01-pytorch_intro/notMNIST_small.tar.gz
 homework01/image*.png
 homework01/*.pt
 homework01/wandb
+
+homework02/data.zip
+homework02/data/
+homework02/unet_hw2.pt
 # swap files
 *~
 *.swp
