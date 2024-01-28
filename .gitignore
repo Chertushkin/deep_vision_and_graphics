@@ -25,6 +25,10 @@ homework03/__MACOSX/
 homework03/lightning_logs
 
 
+homework04/celeba.zip
+homework04/celeba/
+homework04/real.npz
+
 # swap files
 *~
 *.swp
